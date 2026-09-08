@@ -1,5 +1,5 @@
 
-const CACHE = "follow-check-v3";
+const CACHE = "follow-check-v4";
 const ASSETS = [
   "./","./index.html","./manifest.webmanifest","./icon-192.png","./icon-512.png","./apple-touch-icon.png"
 ];
